@@ -1,0 +1,3 @@
+# Keep images tracked, ignore OS junk
+.DS_Store
+Thumbs.db
