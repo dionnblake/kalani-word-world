@@ -6,7 +6,7 @@
   <img src="images/home.png" width="260" alt="Home screen" />
 </p>
 
-> Built for my daughter Kalani. Every word is spoken by a real human voice. No TTS robots.
+> Built for my friends daughter Kalani. Every word is spoken by a real human voice. No TTS robots.
 
 ---
 
