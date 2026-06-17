@@ -1,4 +1,4 @@
-# Kalani's Word World
+# Kalani's Word World-Case Study
 
 **An Android educational app for toddlers — vocabulary, alphabet, shapes, puzzles, and memory games — built entirely in Kotlin and Jetpack Compose.**
 
